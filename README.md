@@ -8,7 +8,7 @@ My portfolio website can be found at [http://userblackbox.github.io/](http://use
 
 ### Tools and Languages
 
-![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white) ![bash](https://img.shields.io/badge/-Bash-green?style=flat-square&logo=gnu-bash&logoColor=white) ![html](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![vscode](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white) ![intellij](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) ![neovim](https://img.shields.io/badge/-Neovim-green?style=flat-square&logo=neovim&logoColor=white)
+![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white) ![bash](https://img.shields.io/badge/-Bash-green?style=flat-square&logo=gnu-bash&logoColor=white) ![html](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![vscode](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white) ![intellij](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white) ![neovim](https://img.shields.io/badge/-Neovim-green?style=flat-square&logo=neovim&logoColor=white)
 
 ### GitHub Stats
 
