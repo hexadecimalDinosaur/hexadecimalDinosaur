@@ -4,7 +4,7 @@
 
 I'm Ivy Fan-Chiang, a student in the MaCS program at William Lyon Mackenzie C.I. Many of my programming projects can be found here under this profile. I am interested in computer science, cybersecurity, music, and 3D printing.
 
-My portfolio website can be found at [https://ivyfanchiang.dev](https://ivyfanchiang.dev)
+My website can be found at [https://ivyfanchiang.dev](https://ivyfanchiang.dev)
 
 ### Tools and Languages
 
