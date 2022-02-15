@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![email](https://img.shields.io/badge/email-userblackbox@tutanota.com-red?style=flat-square)](mailto:userblackbox@tutanota.com) [![pgp](https://img.shields.io/badge/PGP-D0230F8F6E4FE77C-green?style=flat-square)](https://github.com/userblackbox.gpg) [![site](https://img.shields.io/badge/website-ivyfanchiang.dev-blue?style=flat-square)](https://ivyfanchiang.dev) [![matrix](https://img.shields.io/badge/matrix-%40userblackbox%3Amatrix.org-black?style=flat-square)](https://matrix.to/#/@userblackbox:matrix.org)
+[![email](https://img.shields.io/badge/email-userblackbox@tutanota.com-red?style=flat-square)](mailto:userblackbox@tutanota.com) [![pgp](https://img.shields.io/badge/PGP-D0230F8F6E4FE77C-green?style=flat-square)](https://github.com/userblackbox.gpg) [![site](https://img.shields.io/badge/website-ivyfanchiang.ca-blue?style=flat-square)](https://ivyfanchiang.ca) [![matrix](https://img.shields.io/badge/matrix-%40userblackbox%3Amatrix.org-black?style=flat-square)](https://matrix.to/#/@userblackbox:matrix.org)
 
 I'm Ivy Fan-Chiang, a student in the MaCS program at William Lyon Mackenzie C.I. Many of my programming projects can be found here under this profile. I am interested in computer science, cybersecurity, music, and 3D printing.
 
-My website can be found at [https://ivyfanchiang.dev](https://ivyfanchiang.dev)
+My website can be found at [https://ivyfanchiang.ca](https://ivyfanchiang.ca)
 
 ### Tools and Languages
 
