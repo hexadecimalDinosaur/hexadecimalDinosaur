@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![email](https://img.shields.io/badge/email-contact@ivyfanchiang.ca-red?style=flat-square)](mailto:contact@ivyfanchiang.ca) [![pgp](https://img.shields.io/badge/PGP-C8BAE5F22A33BA9E-green?style=flat-square)](https://files.ivyfanchiang.ca/contact%40ivyfanchiang.ca_C8BAE5F22A33BA9E.asc) [![site](https://img.shields.io/badge/website-ivyfanchiang.ca-blue?style=flat-square)](https://ivyfanchiang.ca) [![matrix](https://img.shields.io/badge/matrix-%40userblackbox%3Amatrix.org-black?style=flat-square)](https://matrix.to/#/@userblackbox:matrix.org)
+[![email](https://img.shields.io/badge/email-contact@ivyfanchiang.ca-red?style=flat-square)](mailto:contact@ivyfanchiang.ca) [![pgp](https://img.shields.io/badge/PGP-C8BAE5F22A33BA9E-green?style=flat-square)](https://files.ivyfanchiang.ca/contact%40ivyfanchiang.ca_C8BAE5F22A33BA9E.asc) [![site](https://img.shields.io/badge/website-ivyfanchiang.ca-blue?style=flat-square)](https://ivyfanchiang.ca) [![matrix](https://img.shields.io/badge/matrix-%40userblackbox%3Amatrix.org-black?style=flat-square)](https://matrix.to/#/@userblackbox:matrix.org) <a href="https://masto.ai/@hexadecimal_dinosaur" rel="me">![mastodon](https://img.shields.io/badge/mastodon-%40hexadecimal_dinosaur%3Amasto.ai-blueviolet?style=flat-square)</a>
 
 I'm Ivy Fan-Chiang, a student studying Systems Design Engineering at the University of Waterloo. Many of my programming projects can be found here under this profile. I am interested in computer science, cybersecurity, music, and 3D printing.
 
