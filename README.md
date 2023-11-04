@@ -4,7 +4,7 @@
 
 I'm Ivy Fan-Chiang, a student studying Computer Science at the University of Waterloo. Many of my programming projects can be found here under this profile. I am interested in computer science, cybersecurity, music, and 3D printing.
 
-My website can be found at [https://ivyfanchiang.ca](https://ivyfanchiang.ca)
+My website can be found at [ivyfanchiang.ca](https://ivyfanchiang.ca) or [ivyfc7cpzv3uw3g2s36satpxbbdn545mjuwxji2ltkb5s4aj2lqm4kyd.onion](http://ivyfc7cpzv3uw3g2s36satpxbbdn545mjuwxji2ltkb5s4aj2lqm4kyd.onion/)
 
 My code is currently scattered between GitHub under this account and on [Codeberg](https://codeberg.org/hexadecimalDinosaur)
 
