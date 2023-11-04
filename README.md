@@ -2,7 +2,7 @@
 
 [![email](https://img.shields.io/badge/email-contact@ivyfanchiang.ca-red?style=flat-square)](mailto:contact@ivyfanchiang.ca) [![pgp](https://img.shields.io/badge/PGP-C8BAE5F22A33BA9E-green?style=flat-square)](https://files.ivyfanchiang.ca/contact%40ivyfanchiang.ca_C8BAE5F22A33BA9E.asc) [![site](https://img.shields.io/badge/website-ivyfanchiang.ca-blue?style=flat-square)](https://ivyfanchiang.ca)
 
-I'm Ivy Fan-Chiang, a student studying Systems Design Engineering at the University of Waterloo. Many of my programming projects can be found here under this profile. I am interested in computer science, cybersecurity, music, and 3D printing.
+I'm Ivy Fan-Chiang, a student studying Computer Science at the University of Waterloo. Many of my programming projects can be found here under this profile. I am interested in computer science, cybersecurity, music, and 3D printing.
 
 My website can be found at [https://ivyfanchiang.ca](https://ivyfanchiang.ca)
 
