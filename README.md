@@ -2,7 +2,7 @@
 
 [![email](https://img.shields.io/badge/email-contact@ivyfanchiang.ca-red?style=flat-square)](mailto:contact@ivyfanchiang.ca) [![pgp](https://img.shields.io/badge/PGP-C8BAE5F22A33BA9E-green?style=flat-square)](https://files.ivyfanchiang.ca/contact%40ivyfanchiang.ca_C8BAE5F22A33BA9E.asc) [![site](https://img.shields.io/badge/website-ivyfanchiang.ca-blue?style=flat-square)](https://ivyfanchiang.ca) [![@hexadecimal_dinosaur@fedi.underpowe.red](https://img.shields.io/badge/fedi-%40hexadecimal_dinosaur%40fedi.underpowe.red-purple?style=flat-square&logo=activitypub)](https://fedi.underpowe.red/users/hexadecimal_dinosaur)
 
-I'm Ivy, a computer science at the University of Waterloo. I'm interested in cybersecurity, theoretical computer science, music, and 3D printing. I ocassionally do CTFs, contribute to open source projects, and do malware analysis work.
+I'm Ivy, a computer science student at the University of Waterloo. I'm interested in cybersecurity, theoretical computer science, music, and 3D printing. I ocassionally do CTFs, contribute to open source projects, and do malware analysis work.
 
 My open source projects are scattered between this account and [Codeberg](https://codeberg.org/hexadecimalDinosaur)
 
